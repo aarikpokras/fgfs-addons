@@ -1,2 +1,2 @@
-# fgfs-addons
-Add-ons for FlightGear flight simulator.
+# FGFS Add-ons
+Add-ons for FlightGear flight simulator, including experimental aircraft
