@@ -1,0 +1,4 @@
+* New CIA livery added - all black
+* "Scrap Metal" livery added - does not always work
+  (Open rgb files with your default photo viewer)
+* Default FG liveries are not HD
